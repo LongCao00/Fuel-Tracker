@@ -13,7 +13,7 @@ class Routing(object):
         :return: Tuple with time and km between 2 points
         """
         # API key
-        api_key = "AIzaSyA9AGXnPZ03W3KC_idPRHRvVfrPADBUuBM"
+        api_key = ""
 
         # base url
         url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&"
